@@ -1,4 +1,4 @@
-# Suduko-Solver
+# Suduko-Solver-Using-Genetic-Algorithms 
 This project centers around the application of a **Genetic Algorithm (GA)** to solve Sudoku puzzles.
 
 ## What is Genetic Algorithm?
